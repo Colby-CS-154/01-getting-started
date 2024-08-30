@@ -1,4 +1,4 @@
-# 01-getting-started
+# P1-getting-started
 
 This is your first submission. Read this README carefully and follow the instructions.
 
