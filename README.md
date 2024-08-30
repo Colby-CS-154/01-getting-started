@@ -1,4 +1,4 @@
-# project-1-template
+# 01-getting-started
 
 This is your first submission. Read this README carefully and follow the instructions.
 
